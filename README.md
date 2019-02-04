@@ -1,5 +1,6 @@
 # MLExplore
 Explore Machine Learning algorithms
+
 I present here a series of tutorial for understanding some machine learning algorithms through practice.
 The tutorials are based on Jupyter Notebooks and explaine the maths underneath, 
 describe implementation of the algorithm and 
