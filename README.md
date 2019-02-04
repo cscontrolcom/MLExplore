@@ -1,10 +1,11 @@
 # MLExplore
 Explore Machine Learning algorithms
 
-I present here a series of tutorial for understanding some machine learning algorithms through practice.
-The tutorials are based on Jupyter Notebooks and explaine the maths underneath, 
-describe implementation of the algorithm and 
-apply them on small dataset exemples 
+A serie of tutorial for understanding some machine learning algorithms through practice, are presented.
+The tutorials are based on Jupyter Notebooks and explain the maths underneath, 
+suggest an implementation of the algorithms and apply them on small dataset exemples.
+
+The first tutorial is about Bayesian classifiers, more to come, stay tuned!
 
 Author: Chamsdine SADIKOU 
 Company: CS CONTROLCOM    
