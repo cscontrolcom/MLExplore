@@ -1,7 +1,7 @@
 # MLExplore
 Explore Machine Learning algorithms
 
-A serie of tutorials for understanding some machine learning algorithms through practice, are presented.
+A serie of tutorials for understanding some machine learning algorithms & use cases through practice, are presented.
 The tutorials are based on Jupyter Notebooks and explain the maths underneath, 
 suggest an implementation of the algorithms and apply them on small dataset exemples.
 
